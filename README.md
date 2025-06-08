@@ -9,3 +9,6 @@ https://www.youtube.com/@CoreDumpped
 # Playlist:
 ## Computer architecture from scratch
 https://www.youtube.com/playlist?list=PL9vTTBa7QaQOoMfpP3ztvgyQkPWDPfJez
+
+## Operating Systems Theory
+https://www.youtube.com/playlist?list=PL9vTTBa7QaQPdvEuMTqS9McY-ieaweU8M
